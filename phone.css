@@ -1,0 +1,62 @@
+@media screen and (max-width: 450px){
+    .corp{
+        display: none;
+    }
+    #numb{
+        transform: translate(20px,90px);
+    }
+    #hand {
+        display: none;
+    }
+    #whatimg {
+        transform: translate(140px, -35px);
+    }
+    .pot {
+        width: 130px;
+        display: flex;
+        transform: translate(230px,-80px);
+    }
+    section#container-2.border-2.row {
+        transform: translateY(-70px);
+    }
+    #copycopy {
+        padding: 12px 0px;
+    }
+    button#cor {
+        transform: translate(250px,-80px);
+    }
+    #quality {
+        font-size: 45px;
+    }
+    #searchIcon {
+        transform: translate(-40px, -8px);
+    }
+    #popularproducts {
+        transform: translateY(-70px);
+    }
+    #popu {
+        font-size: 15px;
+        transform: translateY(27px);
+    }
+    #seeall {
+        font-size: 15px;
+    }
+    #phonyup {
+        transform: translateY(-60px);
+    }
+    #phonyup2 {
+        transform: translateY(-60px);
+    }
+    #phony3 {
+        transform: translateY(-150px);
+    }
+    #popu2 {
+        font-size: 25px;
+    }
+    #print-services {
+        font-size: 15px;
+    }
+    #customers-say {
+        transform: translateY(-130px);
+    }
+}
